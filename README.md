@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Laure</h1>
 <h2 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Ideal Place](https://github.com/arthurg5/idealplace)
+- 🔭  I’m currently working to improve my skills on Ruby and JavaScript.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m presently learning **React**
 
 - 📫 How to reach me **devlaure79@gmail.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6570b5f28ef76?hl=fr_FR](https://cvdesignr.com/p/6570b5f28ef76?hl=fr_FR)
 
+- Trained with Le Wagon in Paris during a full-time intensive coding bootcamp lasting 9 weeks
+
+<h2 align="center"> My bootcamp projects</h2>
+- 🔭 R BNB - an Air BnB clone (renting cars) : https://github.com/arthurg5/rbnb
+- 🔭 Ideal Place: [Ideal Place](https://github.com/arthurg5/idealplace)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
