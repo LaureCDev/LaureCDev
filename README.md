@@ -12,7 +12,7 @@
 - Trained with Le Wagon in Paris during a full-time intensive coding bootcamp lasting 9 weeks
 
 <h2 align="center"> My bootcamp projects</h2>
-- 🔭 R BNB - an Air BnB clone (renting cars) : https://github.com/arthurg5/rbnb
+- 🔭 R BNB - an Air BnB clone (renting cars) : https://github.com/arthurg5/rbnb <br>
 - 🔭 Ideal Place: [Ideal Place](https://github.com/arthurg5/idealplace)
 
 <h2 align="left">Connect with me:</h2>
