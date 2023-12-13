@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **devlaure79@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/6570b5f28ef76?hl=fr_FR](https://cvdesignr.com/p/6570b5f28ef76?hl=fr_FR)
+- 📄 Know about my experiences [https://cvdesignr.com/p/6570b5f28ef76?hl=fr_FR](https://cvdesignr.com/p/65762ab525f9d)
 
 - Trained with Le Wagon in Paris during a full-time intensive coding bootcamp lasting 9 weeks
 
