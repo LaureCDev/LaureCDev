@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working to improve my skills on Ruby and JavaScript.
 
-- 🌱 I’m presently learning **React**
+- 🌱 I’m presently learning **Angular and Typescript**
 
 - 📫 How to reach me **devlaure79@gmail.com**
 
