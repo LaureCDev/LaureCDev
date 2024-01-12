@@ -2,8 +2,6 @@
 <h2 align="center">A passionate fullstack developer from France</h3>
 
 - 🔭 I am currently working on the B-Fit project with Ruby, Rails, Stimulus and JavaScript
-  
-- 🔭  I’m currently working to improve my skills on Ruby and JavaScript.
 
 - 🌱 I’m presently learning **Angular and Typescript**
 
