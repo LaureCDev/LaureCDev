@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on the B-Fit project with Ruby, Rails, Stimulus and JavaScript
 
-- 🌱 I’m presently learning **Angular and Typescript**
+- 🌱 I’m presently learning **Java and Spring**
 
 - 📫 How to reach me **devlaure79@gmail.com**
 
